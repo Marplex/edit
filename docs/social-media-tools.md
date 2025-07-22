@@ -482,6 +482,7 @@
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [Lurker.tv](https://www.lurker.tv/) - Discord Server-Based Twitch Stream Recs
+* [StreamGen](https://streamgen.cc/) - Find & Auto-Edit Twitch Streams and Clips
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
